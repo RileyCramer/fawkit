@@ -30,7 +30,7 @@ h1 {
 
 nav {
 
-    background-color: rgb(100, 5, 100);
+    background-color: #000;
     color: #fff;
     padding: 10px;
 }
@@ -43,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ccc;
+    color: rgb(100, 100, 255);
     background-color: #222;
 }
 
@@ -55,7 +55,7 @@ section {
 }
 
 footer {
-    background-color:rgb(100, 5, 100);
+    background-color:#000;
     color: #fff;
     padding: 10px;
     text-align: center;

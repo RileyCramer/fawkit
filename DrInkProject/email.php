@@ -20,8 +20,5 @@ if (isset($_POST['submit'])) {
     else {
         $to = 'riley.cramer10@gmail.com';
         $headers = "From: $email\r\nReply-To: $email";
-        $subject = "Tatoo"
-        mail($to, $subject, $firstname, $lastname, $headers)
     }
-    
 }
