@@ -27,6 +27,7 @@ header {
 
 h1 {
     margin: 0;
+    padding: 10px;
 }
 
 nav {
@@ -64,6 +65,7 @@ footer {
 
 p{
     padding: 10px;
+    max-width: 750px;
 }
 
 div{
@@ -73,4 +75,8 @@ div{
     border: 1px solid black;
     margin-top: 10%;
     margin-bottom: 10%;
+}
+
+form{
+    padding: 10px;
 }
