@@ -1,5 +1,5 @@
 
-//Not made for final code
+//Not made for final code project
 using System;
 using System.Net.Mail;
 
