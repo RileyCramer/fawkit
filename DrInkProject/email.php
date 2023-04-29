@@ -1,4 +1,7 @@
 
+//Not made for final code 
+//Notes: Expiremental and did not end upo working in the end so the idea was scrapped
+
 <!--Riley-->
 if (isset($_POST['submit'])) {
     $firstname = $_POST['firstname'];
